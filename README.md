@@ -122,4 +122,4 @@ Le cadre STU classifie les systèmes selon le signe de leur courbure thermodynam
 
 Basé sur les travaux de Bryan Ouellette : *La Géométrisation de la Complexité : Vers une Science Unifiée de la Topologie*.
 
-```
+*** Pour les citations voir docs/ 
